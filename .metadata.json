@@ -1,0 +1,10 @@
+[
+  {
+    "package": "cnum",
+    "oncran": true
+  },
+  {
+    "package": "legco",
+    "oncran": true
+  }
+]
